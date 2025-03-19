@@ -1,0 +1,19 @@
+{
+    "name": "mengdodo/ngpopen",
+    "description": "管家婆",
+    "type": "libray",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mengdodo\\Ngpopen\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dodo@mengdodo.com"
+        }
+    ],
+    "require": {
+        "php": "^8.1"
+    }
+}
